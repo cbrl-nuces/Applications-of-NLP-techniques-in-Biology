@@ -1,2 +1,2 @@
-./Disordered_Regions/Embeddings
-./Secondary_Structure/Embeddings
+./Disordered_Regions/Embeddings/*
+./Secondary_Structure/Embeddings/*
